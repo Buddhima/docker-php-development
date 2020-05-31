@@ -16,6 +16,7 @@ Your PHP application should go to "public_html" folder.
 Having docker and docker-compose is a prerequisite.
 
 To start the deployment use :  docker-compose up -d
+
 To stop the deployment use :  docker-compose down
 
 This deployment is based on : 	https://github.com/mzazon/php-apache-mysql-containerized/ 
