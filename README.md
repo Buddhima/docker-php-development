@@ -21,5 +21,6 @@ To stop the deployment use :  docker-compose down
 
 This deployment is based on : 	https://github.com/mzazon/php-apache-mysql-containerized/ 
 
+Article on Volumes : https://codeblog.dotsandbrackets.com/persistent-data-docker-volumes/
 
 
